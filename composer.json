@@ -1,0 +1,16 @@
+{
+    "name": "vendor_name/package_name",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Quang Vo",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "phpunit/dbunit": "1.4.1",
+        "phpunit/phpunit": "4.8.6"
+    }
+}

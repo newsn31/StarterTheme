@@ -1,0 +1,27 @@
+{
+  "name": "StarterTheme",
+  "version": "0.0.0",
+  "authors": [
+    "newsn31 <quang.vo31@gmail.com>"
+  ],
+  "description": "Bower package manager for Bootstrap based StarterTheme",
+  "keywords": [
+    "bootstrap",
+    "wordpress",
+    "starter",
+    "theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bxslider-4": "~4.2.5",
+    "html5shiv": "~3.7.3"
+  }
+}
